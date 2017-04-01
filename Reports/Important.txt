@@ -1,0 +1,1 @@
+This folder structure will contain all the reports and screeenshots from waffle
